@@ -6,7 +6,7 @@ const menù = [
         type: 'list',
         name: 'menù',
         message: 'Cosa vuoi fare?',
-        choices: ['Inserisci film', 'visuallizza film dal titolo', 'visuallizza film dal genere','visuallizza film dalla durata', 'Esci']
+        choices: ['Inserisci film', 'visuallizza film dal titolo', 'visuallizza film dal genere','visuallizza film dalla durata massima', 'Esci']
     }
 ];
 
